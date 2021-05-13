@@ -1,9 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kenshihoo&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshihoo&layout=compact" />
-</a>
+![kenshihoo's github stats](https://github-readme-stats.vercel.app/api?username=kenshihoo&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshihoo&layout=compact)
+
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=kenshihoo)
+
 
 <!--
 **kenshihoo/kenshihoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
